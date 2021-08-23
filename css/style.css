@@ -283,6 +283,10 @@ footer {
   .skills-grid {
     grid-template-rows: repeat(5, 20px);
   }
+  .progress {
+    font-size: 70%;
+    padding: 3px;
+  }
   .footer-container {
     font-size: 12px;
   }
